@@ -1,0 +1,7 @@
+C:\Users\Amaterasu\Desktop\Ogarnianie\Ćwiczenia\Dziedzic\Dziedzic\obj\Debug\Dziedzic.csprojResolveAssemblyReference.cache
+C:\Users\Amaterasu\Desktop\Ogarnianie\Ćwiczenia\Dziedzic\Dziedzic\bin\Debug\Dziedzic.exe
+C:\Users\Amaterasu\Desktop\Ogarnianie\Ćwiczenia\Dziedzic\Dziedzic\bin\Debug\Dziedzic.pdb
+C:\Users\Amaterasu\Desktop\Ogarnianie\Ćwiczenia\Dziedzic\Dziedzic\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Amaterasu\Desktop\Ogarnianie\Ćwiczenia\Dziedzic\Dziedzic\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Amaterasu\Desktop\Ogarnianie\Ćwiczenia\Dziedzic\Dziedzic\obj\Debug\Dziedzic.exe
+C:\Users\Amaterasu\Desktop\Ogarnianie\Ćwiczenia\Dziedzic\Dziedzic\obj\Debug\Dziedzic.pdb
