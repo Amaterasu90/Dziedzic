@@ -6,6 +6,16 @@ using System;
 
 namespace Dziedzic
 {
+    /// <summary>
+    /// Program obliczający położenie cząstek w monokrysztale miedzi.
+    /// Struktura ta charakteyzuje się komórką elementarną składającą się z czterech komórek jak na rysunku poniżej.
+    /// Punkty te oddalone są od siebie o a_0*sqrt(2).
+    /// @
+    /// |  $
+    /// | /  
+    /// |/
+    /// $------@
+    /// </summary>
     class Program
     {
         private static string _fName, _symbol;
